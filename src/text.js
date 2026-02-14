@@ -1,0 +1,3 @@
+/**
+ * This render the text with specific format for each instance... font, font-size, color...
+ */
