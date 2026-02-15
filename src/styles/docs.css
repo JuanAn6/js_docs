@@ -1,0 +1,12 @@
+.editor-container{
+    padding: 5px;
+}
+
+.editor-container .editor-element{
+    border:none;
+    height: 100%;
+}
+
+.editor-container .editor-element:focus-visible {
+    outline: none;
+}

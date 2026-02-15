@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f1f1f1;
+}
+
+#editor{
+    background-color: white;
+    border: 1px solid #999;
+    width: 800px;
+    min-height: 500px;
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.1);
+}
